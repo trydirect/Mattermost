@@ -217,3 +217,10 @@ For the server configurations, see [prod-ubuntu.rst] of Mattermost.
 [docker]: http://docs.docker.com/engine/installation/
 [docker-compose]: https://docs.docker.com/compose/install/
 [prod-ubuntu.rst]: https://docs.mattermost.com/install/install-ubuntu-1604.html
+
+
+
+## Quick deployment to cloud
+##### Amazon AWS, Digital Ocean, Hetzner and others
+[<img src="https://img.shields.io/badge/quick%20deploy-%40try.direct-brightgreen.svg">](https://try.direct/server/user/deploy/Im1hdHRlcm1vc3R8NnwzMyI.EIJLoA.QwJBBoo5_xAgcnjknnfthbsKxk4/)
+
